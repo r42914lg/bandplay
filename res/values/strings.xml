@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BroadcastAndPlay</string>
+    <string name="notification_title_play">Player notification</string>
+    <string name="notification_title_sms">SMS notification</string>
+    <string name="action_stop">STOP</string>
+    <string name="action_close">CLOSE</string>
+    <string name="action_pause_resume">PAUSE / RESUME</string>
+    <string name="wrong_url_message">Wrong link!</string>
+    <string name="download_in_progress_msg">Download  in progress, wait...</string>
+    <string name="download_complete_msg">New song loaded, can play</string>
+</resources>
